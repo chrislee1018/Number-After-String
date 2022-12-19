@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\NumberAfterString\NumberAfterString\bin\Debug\NumberAfterString.dll
+C:\Users\chris\source\repos\NumberAfterString\NumberAfterString\bin\Debug\NumberAfterString.pdb
+C:\Users\chris\source\repos\NumberAfterString\NumberAfterString\obj\Debug\NumberAfterString.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\NumberAfterString\NumberAfterString\obj\Debug\NumberAfterString.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\NumberAfterString\NumberAfterString\obj\Debug\NumberAfterString.dll
+C:\Users\chris\source\repos\NumberAfterString\NumberAfterString\obj\Debug\NumberAfterString.pdb
